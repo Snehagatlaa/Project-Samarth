@@ -9,9 +9,9 @@ Government portals like [data.gov.in](https://data.gov.in/) host thousands of va
 ## 🚀 Features
   🔹 **Intelligent Query System**: Ask analytical questions about groundwater levels, rainfall, and agricultural data.  
   🔹 **Integrated Data Sources**: Combines datasets from:     
-        - Ministry of Agriculture & Farmers Welfare (e.g., KCC)
-        - India Meteorological Department (e.g., Cyclone, Rainfall)
-        - Ground Water Board (e.g., Pre-Monsoon Levels)
+              - Ministry of Agriculture & Farmers Welfare (e.g., KCC)
+              - India Meteorological Department (e.g., Cyclone, Rainfall)
+              - Ground Water Board (e.g., Pre-Monsoon Levels)
   🔹 **Dynamic Frontend**: Built with **Streamlit** — interactive filters for year, state, district, and keyword.  
   🔹 **Traceable Outputs**: Each insight links back to its dataset.  
   🔹 **Secure & Deployable**: Uses local SQLite database and can run entirely offline or securely in private environments.
